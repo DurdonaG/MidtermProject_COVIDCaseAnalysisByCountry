@@ -103,8 +103,14 @@ How cases evolved in the United States compared to the Conid-19 development in t
 
 General analysis:
 
+![](https://github.com/DurdonaG/MidtermProject_COVIDCaseAnalysisByCountry/blob/main/Images/General%20Italy.png)
+
 
 **Russia**
+
+Generall analysis: 
+
+![](https://github.com/DurdonaG/MidtermProject_COVIDCaseAnalysisByCountry/blob/main/Images/General%20Russia%20.png)
 
 **Human Developmet Index**
 
