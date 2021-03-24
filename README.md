@@ -105,12 +105,29 @@ General analysis:
 
 ![](https://github.com/DurdonaG/MidtermProject_COVIDCaseAnalysisByCountry/blob/main/Images/General%20Italy.png)
 
+Italy saw significant increase in cases starting from October, 2020. Italy registered more deaths in 2020 than in any other year since World War Two, according to data that suggest COVID-19 caused thousands more fatalities than were officially attributed to it. Total deaths in Italy last year amounted to 746,146, statistics bureau ISTAT said, an increase of 100,525, or 15.6%, compared with the average of the 2015-2019 period. Looking at the period from when Italy’s COVID-19 outbreak came to light on February, 21 to the end of the year, the “excess deaths” were even higher at 108,178, an increase of 21% over the same period of the last five years.
+
+Sources: https://www.bbc.com/news/world-europe-54937699
+https://www.bmj.com/content/371/bmj.m4279
+https://www.reuters.com/article/us-health-coronavirus-italy-dead/italy-2020-death-toll-is-highest-since-world-war-two-as-covid-19-hits-idUSKBN2AX1VJ
+
+Multiple Regression: 
+
 
 **Russia**
 
-Generall analysis: 
+General analysis: 
 
 ![](https://github.com/DurdonaG/MidtermProject_COVIDCaseAnalysisByCountry/blob/main/Images/General%20Russia%20.png)
+
+Russian authorities have announced on Tuesday, November 10, that they will impose restrictions on the opening times of clubs, bars, restaurants, and other entertainment venues in Moscow from Friday, November 13 until January 15 due to a surge in coronavirus disease (COVID-19) cases. Colleges and universities in the capital were also be required to return to online teaching. In late October, the federal government ordered local authorities to enforce the mandatory use of face masks in some public places. Under the new nationwide measures, people are required to wear face masks in parking structures, lifts, and taxis, as well as on public transport. Mask requirements were already in place in some cities, including Moscow, but had not previously been introduced in many other areas of the country. Russia also follows the trend as US, with having Covid spikes starting December, 2020 to January, 2021.
+
+Source: https://www.garda.com/crisis24/news-alerts/398321/russia-authorities-to-tighten-covid-19-restrictions-in-moscow-november-13-update-49
+
+Multiple Regression: 
+
+
+
 
 **Human Developmet Index**
 
