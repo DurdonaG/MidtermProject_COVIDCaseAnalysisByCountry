@@ -32,6 +32,52 @@ Multiple Linear Regression:
 
 ![](https://github.com/DurdonaG/MidtermProject_COVIDCaseAnalysisByCountry/blob/main/Images/korea_regression.png) 
 
+**United Kingdom**
+
+General trends in Covid development: 
+
+![Covid 19 UK](https://github.com/DurdonaG/MidtermProject_COVIDCaseAnalysisByCountry/blob/main/Images/UK%20gen%201.png)
+![](https://github.com/DurdonaG/MidtermProject_COVIDCaseAnalysisByCountry/blob/main/Images/UK%20gen%202.png)
+
+In the United Kingdom, there was a dramatic increase of new covid cases in October and November due to the government’s attempts to help the restaurant industry. Many restaurants and cafeterias were reopened, and face-masks were not required in most eating establishments. The number of cases started to decline through January and February due to the number of people getting vaccinated and new lockdown policies.
+
+Source:
+https://www.vox.com/2020/10/10/21508165/covid-19-uk-cases-news
+https://www.vox.com/2020/10/10/21508165/covid-19-uk-cases-news
+
+Multiple Linear Regression:
+
+![](https://github.com/DurdonaG/MidtermProject_COVIDCaseAnalysisByCountry/blob/main/Images/UK%20regression.png)
+
+**India** 
+
+General trends in Covid development: 
+
+![Covid 19 India](https://github.com/DurdonaG/MidtermProject_COVIDCaseAnalysisByCountry/blob/main/Images/India%20gen%201.png)
+![](https://github.com/DurdonaG/MidtermProject_COVIDCaseAnalysisByCountry/blob/main/Images/India%20gen%202.png)
+
+India saw a significant increase of cases in August and throughout the Fall as there was no central coordination from the government and thus there was an increase of cases in rural areas. India is going through a second peak of the pandemic in March 2021 as people are not adhering to government policies and health guidelines of wearing masks and maintaining social distance.
+
+Sources: https://www.ctvnews.ca/health/coronavirus/why-india-covid-19-cases-are-rising-to-multiple-peaks-1.5019183
+https://www.bbc.com/news/world-asia-india-53969118
+https://www.aljazeera.com/news/2021/3/19/why-is-india-staring-at-a-second-peak-of-covid-cases
+
+Multiple Linear Regression:
+
+![](https://github.com/DurdonaG/MidtermProject_COVIDCaseAnalysisByCountry/blob/main/Images/India%20regresssion.png)
+
+Multiple linear regression results: I have conducted a multiple linear regression analysis to find a correlation between stringency index with total cases, new cases, and total deaths in South Korea, United Kingdom, and India. Low significance F and the P-value under 0.05 for all three countries suggest an association between these variables. Thus, total cases, new cases, and total deaths would be a good predictor for stringency index. 
+
+
+**United States**
+
+**Italy**
+
+**Russia**
+
+**Human Developmet Index**
+
+
 
 ## Conclusion 
 
