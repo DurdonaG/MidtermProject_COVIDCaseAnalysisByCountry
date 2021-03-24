@@ -71,11 +71,37 @@ Multiple linear regression results: I have conducted a multiple linear regressio
 
 **United States**
 
+General Analysis US: 
+
+![](https://github.com/DurdonaG/MidtermProject_COVIDCaseAnalysisByCountry/blob/main/Images/Screen%20Shot%202021-03-23%20at%206.45.11%20PM.png)
+![](https://github.com/DurdonaG/MidtermProject_COVIDCaseAnalysisByCountry/blob/main/Images/Screen%20Shot%202021-03-23%20at%206.45.43%20PM.png)
+
+Cases in the US decreased during September and October, 2020 and then spiked again starting November, 2020 to January, 2021 causing the second wave. We can see that the case spike is directly related to a light decrease in the stringency index. 
+
+Sources: https://www.theguardian.com/world/2020/nov/12/us-coronavirus-cases-deaths-november
+https://www.cbsnews.com/news/covid-november-cases-united-states/
+
+Multiple Linear Regression: 
+https://github.com/DurdonaG/MidtermProject_COVIDCaseAnalysisByCountry/blob/main/Images/Screen%20Shot%202021-03-23%20at%206.49.57%20PM.png
+
+Results: 
+
+Correlation between stringency index in the US and total and new cases: 
+
+https://github.com/DurdonaG/MidtermProject_COVIDCaseAnalysisByCountry/blob/main/Images/Screen%20Shot%202021-03-23%20at%206.51.38%20PM.png
+
+Results: 
+
+How cases evolved in the United States compared to the Conid-19 development in the world: 
+
+![](https://github.com/DurdonaG/MidtermProject_COVIDCaseAnalysisByCountry/blob/main/Images/Screen%20Shot%202021-03-23%20at%208.14.02%20PM.png)
+
 **Italy**
 
 **Russia**
 
 **Human Developmet Index**
+https://github.com/DurdonaG/MidtermProject_COVIDCaseAnalysisByCountry/blob/main/Images/Screen%20Shot%202021-03-23%20at%207.22.11%20PM.png
 
 
 
