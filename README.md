@@ -18,7 +18,9 @@ Is stringency index correlated with how Covid-19 cases evolved in selected count
 ### Analysis
 
 **South Korea**
+
 General trends in Covid development: 
+
 ![Covid 19 South Korea](https://github.com/DurdonaG/MidtermProject_COVIDCaseAnalysisByCountry/blob/main/Images/SK%20general%201.png)
 ![](https://github.com/DurdonaG/MidtermProject_COVIDCaseAnalysisByCountry/blob/main/Images/SK%20general%202.png)
 
@@ -26,9 +28,12 @@ Graph shows that there was a significant increase of new cases in October due to
 Sources: https://edition.cnn.com/world/live-news/coronavirus-pandemic-10-23-20-intl/h_9cfa568f49e19518f5c21111ea2f98c5
 http://www.koreaherald.com/view.php?ud=20201221000855
 
+Multiple Linear Regression:
+
+![](https://github.com/DurdonaG/MidtermProject_COVIDCaseAnalysisByCountry/blob/main/Images/korea_regression.png) 
 
 
-## Concludsion 
+## Conclusion 
 
   
   
