@@ -16,7 +16,9 @@ What is the trend of Covid-19 pandemic in the following countries: United States
 Is stringency index correlated with how Covid-19 cases evolved in selected countries? Is there any correlation between human development index in the country and how many cases the country had per 1M?
 
 ### Analysis
+
 *Justin*
+
 **South Korea**
 
 General trends in Covid development: 
@@ -69,6 +71,7 @@ Multiple Linear Regression:
 Multiple linear regression results: I have conducted a multiple linear regression analysis to find a correlation between stringency index with total cases, new cases, and total deaths in South Korea, United Kingdom, and India. Low significance F and the P-value under 0.05 for all three countries suggest an association between these variables. Thus, total cases, new cases, and total deaths would be a good predictor for stringency index. 
 
 *Durdona*
+
 **United States**
 
 General Analysis US: 
