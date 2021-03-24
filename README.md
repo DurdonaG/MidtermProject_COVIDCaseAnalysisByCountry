@@ -16,7 +16,7 @@ What is the trend of Covid-19 pandemic in the following countries: United States
 Is stringency index correlated with how Covid-19 cases evolved in selected countries? Is there any correlation between human development index in the country and how many cases the country had per 1M?
 
 ### Analysis
-
+*Justin*
 **South Korea**
 
 General trends in Covid development: 
@@ -68,7 +68,7 @@ Multiple Linear Regression:
 
 Multiple linear regression results: I have conducted a multiple linear regression analysis to find a correlation between stringency index with total cases, new cases, and total deaths in South Korea, United Kingdom, and India. Low significance F and the P-value under 0.05 for all three countries suggest an association between these variables. Thus, total cases, new cases, and total deaths would be a good predictor for stringency index. 
 
-
+*Durdona*
 **United States**
 
 General Analysis US: 
@@ -98,12 +98,19 @@ How cases evolved in the United States compared to the Conid-19 development in t
 
 **Italy**
 
+General analysis:
+
+
 **Russia**
 
 **Human Developmet Index**
-https://github.com/DurdonaG/MidtermProject_COVIDCaseAnalysisByCountry/blob/main/Images/Screen%20Shot%202021-03-23%20at%207.22.11%20PM.png
 
+The Human Development Index is a statistic composite index of life expectancy, education, and per capita income indicators, which are used to rank countries into four tiers of human development. This analysis examines if the covid case numbers depend on the human development index of the country. Ten countries with the highest human development index and 10 countries with the lowest human development index were taken to compare whether the Covid- 19 cases per 1 M people depend on the Human Development Index of the country. Looking at the correlation coefficient = 0.68, we can tell that there is a moderate positive relationship between human development index and Covid cases by country. 
 
+![](https://github.com/DurdonaG/MidtermProject_COVIDCaseAnalysisByCountry/blob/main/Images/Screen%20Shot%202021-03-23%20at%207.22.11%20PM.png}
+
+Sources: http://hdr.undp.org/en/content/human-development-index-hdi
+https://news.google.com/covid19/map?hl=en-US&mid=/m/0ms6_&gl=US&ceid=US:en
 
 ## Conclusion 
 
