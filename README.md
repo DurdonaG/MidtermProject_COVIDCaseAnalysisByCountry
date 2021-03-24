@@ -82,15 +82,15 @@ Sources: https://www.theguardian.com/world/2020/nov/12/us-coronavirus-cases-deat
 https://www.cbsnews.com/news/covid-november-cases-united-states/
 
 Multiple Linear Regression: 
-https://github.com/DurdonaG/MidtermProject_COVIDCaseAnalysisByCountry/blob/main/Images/Screen%20Shot%202021-03-23%20at%206.49.57%20PM.png
+![](https://github.com/DurdonaG/MidtermProject_COVIDCaseAnalysisByCountry/blob/main/Images/Screen%20Shot%202021-03-23%20at%206.49.57%20PM.png)
 
-Results: 
+Results: This multiple linear regression analysis display the relationship between an independent variable- Stringency Index and dependent variables: total cases, new cases, and total death. According to the low p values of dependent variable, we can concule that those three variables would be a good predictors of stringency index. Low significance F and the P-value under 0.05 suggest an association between these variables. Therefore, all dependent variables: total cases, new cases, and total deaths would be a good predictor for stringency index. 
 
 Correlation between stringency index in the US and total and new cases: 
 
-https://github.com/DurdonaG/MidtermProject_COVIDCaseAnalysisByCountry/blob/main/Images/Screen%20Shot%202021-03-23%20at%206.51.38%20PM.png
+![](https://github.com/DurdonaG/MidtermProject_COVIDCaseAnalysisByCountry/blob/main/Images/Screen%20Shot%202021-03-23%20at%206.51.38%20PM.png)
 
-Results: 
+Results: Following correlation analysis displays that total cases and new cases are correlated,, while surprisingly, correlation between stringency index and total cases is low. 
 
 How cases evolved in the United States compared to the Conid-19 development in the world: 
 
