@@ -113,6 +113,8 @@ https://www.reuters.com/article/us-health-coronavirus-italy-dead/italy-2020-deat
 
 Multiple Regression: 
 
+![](https://github.com/DurdonaG/MidtermProject_COVIDCaseAnalysisByCountry/blob/main/Images/Screen%20Shot%202021-03-24%20at%202.57.40%20PM.png)
+
 
 **Russia**
 
@@ -126,7 +128,7 @@ Source: https://www.garda.com/crisis24/news-alerts/398321/russia-authorities-to-
 
 Multiple Regression: 
 
-
+![](https://github.com/DurdonaG/MidtermProject_COVIDCaseAnalysisByCountry/blob/main/Images/Screen%20Shot%202021-03-24%20at%202.57.55%20PM.png)
 
 
 **Human Developmet Index**
