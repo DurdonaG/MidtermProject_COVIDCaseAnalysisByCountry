@@ -142,7 +142,15 @@ https://news.google.com/covid19/map?hl=en-US&mid=/m/0ms6_&gl=US&ceid=US:en
 
 ## Conclusion 
 
+To conclude, the
 
+why this research is important
+
+how stringency contributed to number of total cases and total death 
+
+restate the fact
+
+what we could possibly look at the future: variables, metrics 
 
   
   
