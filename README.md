@@ -131,7 +131,7 @@ Multiple Regression:
 ![](https://github.com/DurdonaG/MidtermProject_COVIDCaseAnalysisByCountry/blob/main/Images/Screen%20Shot%202021-03-24%20at%202.57.55%20PM.png)
 
 
-**Human Developmet Index**
+**Human Development Index**
 
 The Human Development Index is a statistic composite index of life expectancy, education, and per capita income indicators, which are used to rank countries into four tiers of human development. This analysis examines if the covid case numbers depend on the human development index of the country. Ten countries with the highest human development index and 10 countries with the lowest human development index were taken to compare whether the Covid- 19 cases per 1 M people depend on the Human Development Index of the country. Looking at the correlation coefficient = 0.68, we can tell that there is a moderate positive relationship between human development index and Covid cases by country. 
 
@@ -142,16 +142,16 @@ https://news.google.com/covid19/map?hl=en-US&mid=/m/0ms6_&gl=US&ceid=US:en
 
 ## Conclusion 
 
-To conclude, the
+To conclude, this analysis of covid-19 cases demonstrated that stringency index is closely correlated to the number of covid cases by country. While a higher score indicates a stricter response (i.e. 100 = strictest response), it’s important to note that this index simply records the strictness of government policies. It does not measure or imply the appropriateness or effectiveness of a country’s response. A higher score does not necessarily mean that a country’s response is ‘better’ than others lower on the index.
+Relating back to our business question, the magnitude of the covid impacts have varied a lot between countries – some have been very successful in limiting the spread of the disease, and in preventing deaths. There are many reasons why some countries might have been worse-hit than others. Differences in governmental policy responses may explain some of the differences. Results of multiple regressions performed above demonstrated that there is a moderate correlation between stringency index and covid case numbers, which does not necesseraly mean that increasing stringency index would decrease covid cases. 
+This research is important
 
-why this research is important
+For the future research, we could possibly look at the effectiveness of policies implemented and how that has affected covid cases and correlation between those metrics. 
 
-how stringency contributed to number of total cases and total death 
 
-restate the fact
 
-what we could possibly look at the future: variables, metrics 
 
-  
+
+
   
   
