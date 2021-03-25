@@ -144,7 +144,7 @@ https://news.google.com/covid19/map?hl=en-US&mid=/m/0ms6_&gl=US&ceid=US:en
 
 To conclude, this analysis of covid-19 cases demonstrated that stringency index is closely correlated to the number of covid cases by country. While a higher score indicates a stricter response (i.e. 100 = strictest response), it’s important to note that this index simply records the strictness of government policies. It does not measure or imply the appropriateness or effectiveness of a country’s response. A higher score does not necessarily mean that a country’s response is ‘better’ than others lower on the index.
 Relating back to our business question, the magnitude of the covid impacts have varied a lot between countries – some have been very successful in limiting the spread of the disease, and in preventing deaths. There are many reasons why some countries might have been worse-hit than others. Differences in governmental policy responses may explain some of the differences. Results of multiple regressions performed above demonstrated that there is a moderate correlation between stringency index and covid case numbers, which does not necesseraly mean that increasing stringency index would decrease covid cases. 
-This research is important
+
 
 For the future research, we could possibly look at the effectiveness of policies implemented and how that has affected covid cases and correlation between those metrics. 
 
