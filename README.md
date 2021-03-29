@@ -77,8 +77,8 @@ Multiple linear regression results: I have conducted a multiple linear regressio
 Covid- 19 profile in the US starting from January 22nd, 2020 to March 22nd, 2021:
  
 
-![](https://github.com/DurdonaG/MidtermProject_COVIDCaseAnalysisByCountry/blob/main/Images/Screen%20Shot%202021-03-23%20at%206.45.11%20PM.png)
-![](https://github.com/DurdonaG/MidtermProject_COVIDCaseAnalysisByCountry/blob/main/Images/Screen%20Shot%202021-03-23%20at%206.45.43%20PM.png)
+![](https://github.com/DurdonaG/MidtermProject_COVIDCaseAnalysisByCountry/blob/main/Images/US%20Profile.png)
+
 
 Cases in the US decreased during September and October 2020 and then spiked again starting November 2020 to January 2021 causing the second wave of pandemic. We can see that the case spike is directly related to a light decrease in the stringency index. By analyzing Covid profile in the US, it is important to note that regulations and policies that were accepted in prevention of Covid were drastically different by state. However, this analysis examines Covid cases in a country as a whole. 
 
