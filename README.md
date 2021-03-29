@@ -122,7 +122,7 @@ Multiple Regression:
 
 Covid- 19 profile in Russia starting from January 22nd, 2020 to March 22nd, 2021:
 
-![](https://github.com/DurdonaG/MidtermProject_COVIDCaseAnalysisByCountry/blob/main/Images/General%20Russia%20.png)
+![](https://github.com/DurdonaG/MidtermProject_COVIDCaseAnalysisByCountry/blob/main/Images/Russia%20General%20Covid.png)
 
 Russian authorities have announced on Tuesday, November 10, that they will impose restrictions on the opening times of clubs, bars, restaurants, and other entertainment venues in Moscow from Friday, November 13 until January 15 due to a surge in coronavirus disease cases. Colleges and universities in the capital were also be required to return to online teaching. In late October, the federal government ordered local authorities to enforce the mandatory use of face masks in some public places. Under the new nationwide measures, people are required to wear face masks in parking structures, lifts, and taxis, as well as on public transport. Mask requirements were already in place in some cities, including Moscow, but had not previously been introduced in many other areas of the country. Russia also follows the trend as many other countries like US, with Covid spikes starting mid- fall 2020 to January 2021.
 
