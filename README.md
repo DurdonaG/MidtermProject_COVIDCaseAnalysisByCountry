@@ -85,24 +85,25 @@ Cases in the US decreased during September and October 2020 and then spiked agai
 Sources: https://www.theguardian.com/world/2020/nov/12/us-coronavirus-cases-deaths-november
 https://www.cbsnews.com/news/covid-november-cases-united-states/
 
-*Multiple Linear Regression*: 
+Multiple Linear Regression: 
+
 ![](https://github.com/DurdonaG/MidtermProject_COVIDCaseAnalysisByCountry/blob/main/Images/Screen%20Shot%202021-03-23%20at%206.49.57%20PM.png)
 
-Results: This multiple linear regression analysis displays the relationship between an independent variable- Stringency Index and dependent variables: total cases, new cases, and total death. According to the low p values of dependent variable, we can concule that those three variables would be a good predictors of stringency index. Low significance F and the P-value under 0.05 suggest an association between these variables. Therefore, all dependent variables: total cases, new cases, and total deaths would be a good predictor for stringency index. However, this does not necessarily mean that increasing stringency index would lead to the decrease in cases. 
+This multiple linear regression analysis displays the relationship between an independent variable- Stringency Index and dependent variables: total cases, new cases, and total death. According to the low p values of dependent variable, we can concule that those three variables would be a good predictors of stringency index. Low significance F and the P-value under 0.05 suggest an association between these variables. Therefore, all dependent variables: total cases, new cases, and total deaths would be a good predictor for stringency index. However, this does not necessarily mean that increasing stringency index would lead to the decrease in cases. 
 
 Correlation between stringency index in the US and total and new cases: 
 
-![](https://github.com/DurdonaG/MidtermProject_COVIDCaseAnalysisByCountry/blob/main/Images/Screen%20Shot%202021-03-23%20at%206.51.38%20PM.png)
+![](https://github.com/DurdonaG/MidtermProject_COVIDCaseAnalysisByCountry/blob/main/Images/Stringency%20Index%20Correlation.png)
 
-Results: Following correlation analysis displays that total cases and new cases are correlated,, while surprisingly, correlation between stringency index and total cases is low. 
+Following correlation analysis displays that total cases and new cases are moderately correlated, while, surprisingly, correlation coefficient between stringency index and total cases is low. 
 
-Covid pandemic profile in the US compared to the World: 
+Covid- 19 pandemic profile in the US compared to the World: 
 
 ![](https://github.com/DurdonaG/MidtermProject_COVIDCaseAnalysisByCountry/blob/main/Images/WorldVSUS.png)
 
 **Italy**
 
-Covid- 19 profile in Italy starting from January 22nd, 2020 to March 22nd, 2021:
+Covid- 19 pandemic profile in Italy starting from January 22nd, 2020 to March 22nd, 2021:
 
 ![](https://github.com/DurdonaG/MidtermProject_COVIDCaseAnalysisByCountry/blob/main/Images/General%20Italy.png)
 
