@@ -80,7 +80,7 @@ Covid- 19 profile in the US starting from January 22nd, 2020 to March 22nd, 2021
 ![](https://github.com/DurdonaG/MidtermProject_COVIDCaseAnalysisByCountry/blob/main/Images/US%20Profile.png)
 
 
-Cases in the US decreased during September and October 2020 and then spiked again starting November 2020 to January 2021 causing the second wave of pandemic. We can see that the case spike is directly related to a light decrease in the stringency index. By analyzing Covid profile in the US, it is important to note that regulations and policies that were accepted in prevention of Covid were drastically different by state. However, this analysis examines Covid cases in a country as a whole. 
+Cases in the US decreased during September and October 2020 and then spiked again starting November 2020 to January 2021 causing the second wave of pandemic. We can see that the case spike is directly related to a light decrease in the stringency index. By analyzing Covid- 19 profile in the US, it is important to note that regulations and policies that were accepted in prevention of Covid- 19 were drastically different by state. However, this analysis examines Covid- 19 cases in a country as a whole. 
 
 Sources that link to Covid case expansions in the US: https://www.theguardian.com/world/2020/nov/12/us-coronavirus-cases-deaths-november
 https://www.cbsnews.com/news/covid-november-cases-united-states/
