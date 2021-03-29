@@ -82,10 +82,10 @@ Covid- 19 profile in the US starting from January 22nd, 2020 to March 22nd, 2021
 
 Cases in the US decreased during September and October 2020 and then spiked again starting November 2020 to January 2021 causing the second wave of pandemic. We can see that the case spike is directly related to a light decrease in the stringency index. By analyzing Covid- 19 profile in the US, it is important to note that regulations and policies that were accepted in prevention of Covid- 19 were drastically different by state. However, this analysis examines Covid- 19 cases in a country as a whole. 
 
-Sources that link to Covid case expansions in the US: https://www.theguardian.com/world/2020/nov/12/us-coronavirus-cases-deaths-november
+Sources: https://www.theguardian.com/world/2020/nov/12/us-coronavirus-cases-deaths-november
 https://www.cbsnews.com/news/covid-november-cases-united-states/
 
-Multiple Linear Regression: 
+*Multiple Linear Regression*: 
 ![](https://github.com/DurdonaG/MidtermProject_COVIDCaseAnalysisByCountry/blob/main/Images/Screen%20Shot%202021-03-23%20at%206.49.57%20PM.png)
 
 Results: This multiple linear regression analysis displays the relationship between an independent variable- Stringency Index and dependent variables: total cases, new cases, and total death. According to the low p values of dependent variable, we can concule that those three variables would be a good predictors of stringency index. Low significance F and the P-value under 0.05 suggest an association between these variables. Therefore, all dependent variables: total cases, new cases, and total deaths would be a good predictor for stringency index. However, this does not necessarily mean that increasing stringency index would lead to the decrease in cases. 
