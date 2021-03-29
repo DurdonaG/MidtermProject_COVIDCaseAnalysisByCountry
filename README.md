@@ -105,7 +105,7 @@ Covid- 19 pandemic profile in the US compared to the World:
 
 Covid- 19 pandemic profile in Italy starting from January 22nd, 2020 to March 22nd, 2021:
 
-![](https://github.com/DurdonaG/MidtermProject_COVIDCaseAnalysisByCountry/blob/main/Images/General%20Italy.png)
+![](https://github.com/DurdonaG/MidtermProject_COVIDCaseAnalysisByCountry/tree/main/Images)
 
 Italy was the first Western country to experience a major coronavirus outbreak and consequently faced large-scale health and socio-economic challenges. The Italian government enforced a wide set of interventions nationally. Italy saw significant increase in cases starting from October 2020. The country has registered more deaths in 2020 than in any other year since World War Two. According to data attached below, COVID-19 caused thousands more fatalities than were officially attributed to it. Total deaths in Italy last year amounted to 746,146, as statistics bureau ISTAT said, an increase of 100,525, or 15.6%, compared with the average of the 2015-2019 period. Looking at the period from when Italy’s COVID-19 outbreak came to light on February 21 to the end of the year, the “excess deaths” were even higher at 108,178, an increase of 21% over the same period of the last five years.
 
